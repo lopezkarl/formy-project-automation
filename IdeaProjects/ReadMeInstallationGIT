@@ -1,0 +1,13 @@
+1. Download Git http://git-scm.com/download/win
+2. check version git --version
+3. Go to Git account
+4. Add Repository
+5. copy ex. git remote add origin https://github.com/lopezkarl/Test.git to the cmd
+6. Go to file directory (where your files located)
+7. run a command
+8.git init
+9.git remote -v
+10. git status
+11. git commit -m ""initial commt"
+12.git add - all
+13. git push origin master
